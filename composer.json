@@ -1,0 +1,9 @@
+{
+	"name": "ondrejbouda/coding-standard",
+	"license": "MIT",
+	"require-dev": {
+		"squizlabs/php_codesniffer": "^2.8",
+		"consistence/coding-standard": "^0.13.0",
+		"slevomat/coding-standard": "^2.0"
+	}
+}
